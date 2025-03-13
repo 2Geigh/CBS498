@@ -1,0 +1,6 @@
+./raw/pred/HinfKW20_pred_R1_for.fastq,./raw/pred/HinfKW20_pred_R1_rev.fastq
+./raw/pred/HinfKW20_pred_R2_for.fastq,./raw/pred/HinfKW20_pred_R2_rev.fastq
+./raw/pred/HinfKW20_pred_R3_for.fastq,./raw/pred/HinfKW20_pred_R3_rev.fastq
+./raw/pred/HinfKW20_beclo_R1_for.fastq,./raw/pred/HinfKW20_beclo_R1_rev.fastq
+./raw/pred/HinfKW20_beclo_R2_for.fastq,./raw/pred/HinfKW20_beclo_R2_rev.fastq
+./raw/pred/HinfKW20_beclo_R3_for.fastq,./raw/pred/HinfKW20_beclo_R3_rev.fastq
