@@ -1,5 +1,11 @@
 /raw
 *.fa
 *.fai
+*.fastq
 *.gff3
 GFF_README
+*.tar
+*.gz
+*.zip
+*.html
+*.bam
