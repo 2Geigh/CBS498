@@ -187,12 +187,6 @@ main() {
     echo "Reference genome: $REFERENCE_GENOME"
     
     verify_sample_list "$SAMPLE_LIST"
-
-    verify_reference_genome "$REFERENCE_GENOME"
-    
-    setup_directories "$WORKING_DIRECTORY"
-
-    process_samples
 }
 
 main "$@"

@@ -59,7 +59,7 @@ setup_directories() {
         "${working_dir}/results"
     )
     
-    echo "\nBEGIN DIRECTORY CHECK"
+    echo "BEGIN DIRECTORY CHECK"
     
     for dir in "${dirs[@]}"; do
         mkdir -p "$dir"
@@ -186,13 +186,7 @@ main() {
     echo "Sample list: $SAMPLE_LIST"
     echo "Reference genome: $REFERENCE_GENOME"
     
-    verify_sample_list "$SAMPLE_LIST"
-
-    verify_reference_genome "$REFERENCE_GENOME"
-    
     setup_directories "$WORKING_DIRECTORY"
-
-    process_samples
 }
 
 main "$@"
