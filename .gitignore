@@ -8,4 +8,5 @@ GFF_README
 *.gz
 *.zip
 *.html
+*.ht2
 *.bam
