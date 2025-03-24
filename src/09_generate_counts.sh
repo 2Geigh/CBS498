@@ -15,7 +15,7 @@ generate_counts() {
     # Initialize output files if they do not exist
     touch "${WORKING_DIRECTORY}/data/quant/output_data.txt" "${WORKING_DIRECTORY}/data/quant/clean_counts.txt"
     
-    featureCounts -p -a ARaport11_GTF_genes_transposons.current.gtf \
+    featureCounts -p -a Arabidopsis_thaliana.TAIR10.55.gtf \
         -o "${WORKING_DIRECTORY}/data/quant/output_data.txt" \
         "${BAM_FILES[@]}"
     
