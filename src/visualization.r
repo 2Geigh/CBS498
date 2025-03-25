@@ -15,6 +15,12 @@ dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 deg_files <- c("./deseq2_output/Significant_Genes_HopAB1_vs_Filtered_D36E_EV.csv",
                "./deseq2_output/Significant_Genes_HopB1_vs_Filtered_D36E_EV.csv",
                "./deseq2_output/Significant_Genes_HopN1_vs_Filtered_D36E_EV.csv")
+            #    "./deseq2_output/time_resolved_analysis/Significant_Genes_HopAB1_1h_vs_Filtered_D36E_EV.csv",
+            #    "./deseq2_output/time_resolved_analysis/Significant_Genes_HopAB1_8h_vs_Filtered_D36E_EV.csv",
+            #    "./deseq2_output/time_resolved_analysis/Significant_Genes_HopB1_1h_vs_Filtered_D36E_EV.csv",
+            #    "./deseq2_output/time_resolved_analysis/Significant_Genes_HopB1_8h_vs_Filtered_D36E_EV.csv",
+            #    "./deseq2_output/time_resolved_analysis/Significant_Genes_HopN1_1h_vs_Filtered_D36E_EV.csv",
+            #    "./deseq2_output/time_resolved_analysis/Significant_Genes_HopN1_1h_vs_Filtered_D36E_EV.csv")
 
 for (file in deg_files) {
     print(file)

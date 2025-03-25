@@ -3,7 +3,7 @@
 run_deseq2() {
     WORKING_DIRECTORY="$(pwd)"
 
-    Rscript ./src/deseq2.r
+    Rscript ./src/10_run_deseq2.r
 }
 
 main() {
