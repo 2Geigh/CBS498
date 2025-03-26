@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Significant Genes</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 2em; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; line-height: 1em;}
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f4f4f4; }
+        .significant { background-color: lightgrey; }
+    </style>
+</head>
+<body>
+    <h2>Definitions</h2>
+    <ul>
+        <li><strong>GO:BP</strong> = Gene ontology: biological process</li>
+        <li><strong>GO:CC</strong> = Gene ontology: cellular component</li>
+        <li><strong>GO:MF</strong> = Gene ontology: molecular function</li>
+        <li><strong>KEGG</strong> = Kyoto encyclopedia of genes and genomes - Pathway data</li>
+    </ul>
+
+    <h2>Significant Genes</h2>
+    Table rows are <span class="significant">highlighted</span> if their p-value is below 0.01.
+    <h3>HopAB1</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Term</th>
+                <th>Gene Ontology</th>
+                <th>Up/Down-Regulated</th>
+                <th>Term Name</th>
+                <th>Genes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="significant">
+                <td>GO:0048511</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>rhythmic process</td>
+                <td><!--AT1G01060,AT1G68050,AT5G58140,AT5G37260,AT3G48360,AT3G46640,AT2G46830,AT2G21660--></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0007623</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>circadian rhythm</td>
+                <td><!--AT1G01060,AT1G68050,AT5G58140,AT5G37260,AT3G48360,AT3G46640,AT2G46830,AT2G21660--></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0050896</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to stimulus</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0065007</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>biological regulation</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0009628</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to abiotic stimulus</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0050789</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of biological process</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0042754</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>negative regulation of circadian rhythm</td>
+                <td>AT1G01060,AT2G46830</td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0009409</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to cold</td>
+                <td><!--AT1G01060,AT1G52690,AT3G48360,AT3G55160,AT2G38170,AT2G19450,AT2G46830,AT2G21660,AT4G26080--></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0009314</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to radiation</td>
+                <td><!--AT1G01060,AT1G68050,AT5G58140,AT5G40820,AT5G24655,AT5G56550,AT5G49730,AT3G15354,AT2G46830,AT2G27820,AT4G04850,AT4G38620--></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0042221</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to chemical</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0050794</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of cellular process</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0000122</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>negative regulation of transcription by RNA polymerase II</td>
+                <td></td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0019219</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of nucleobase-containing compound metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0009416</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to light stimulus</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0009266</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to temperature stimulus</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0010038</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>response to metal ion</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0080090</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of primary metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0060255</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of macromolecule metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0051252</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of RNA metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0170040</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>proteinogenic amino acid catabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0170035</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>L-amino acid catabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0045934</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>negative regulation of nucleobase-containing compound metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0019222</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0022414</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>reproductive process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0010275</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>NAD(P)H dehydrogenase complex assembly</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0048608</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>reproductive structure development</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0061458</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>reproductive system development</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0006355</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of DNA-templated transcription</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0051656</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>establishment of organelle localization</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:2001141</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of RNA biosynthetic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0006351</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>DNA-templated transcription</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0042752</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>regulation of circadian rhythm</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0051667</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>establishment of plastid localization</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0010051</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>xylem and phloem pattern formation</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0003006</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>developmental process involved in reproduction</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0010605</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>negative regulation of macromolecule metabolic process</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0009902</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>chloroplast relocation</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0005622</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>intracellular anatomical structure</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>GO:0009941</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>chloroplast envelope</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>KEGG:04712</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>Circadian rhythm - plant</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h3>HopB1</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Term</th>
+                <th>Gene Ontology</th>
+                <th>Up/Down-Regulated</th>
+                <th>Term Name</th>
+                <th>Genes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="significant">
+                <td>GO:0007623</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>Circadian rhythm</td>
+                <td>AT5G37260,AT3G48360,AT3G46640,AT3G54810,AT4G13930,AT4G17090</td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0048511</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>Rhythmic process</td>
+                <td>AT5G37260,AT3G48360,AT3G46640,AT3G54810,AT4G13930</td>
+            </tr>
+            <tr class="significant">
+                <td>GO:0009845</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>Seed germination</td>
+                <td>AT1G42550,AT5G37260,AT3G54810,AT2G19450</td>
+            </tr>
+            <tr>
+                <td>GO:0090351</td>
+                <td>Biological process</td>
+                <td>Mixed</td>
+                <td>Seedling development</td>
+                <td>AT1G42550,AT5G37260,AT3G54810,AT2G19450</td>
+            </tr>
+            <tr>
+                <td>GO:0009902</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>Chloroplast relocation</td>
+                <td>AT1G42550,AT1G64500</td>
+            </tr>
+            <tr>
+                <td>GO:0051667</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>Establishment of plastid localization</td>
+                <td>AT1G42550,AT1G64500</td>
+            </tr>
+            <tr>
+                <td>GO:0019750</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>Chloroplast localization</td>
+                <td>AT1G42550,AT1G64500</td>
+            </tr>
+            <tr>
+                <td>GO:0051644</td>
+                <td>Biological process</td>
+                <td>Down</td>
+                <td>Plastid localization</td>
+                <td>AT1G42550,AT1G64500</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>HopN1</h3>
+    <table>
+        <tr>
+            <th>Term</th>
+            <th>Gene Ontology</th>
+            <th>Up/Down-Regulated</th>
+            <th>Term Name</th>
+            <th>Genes</th>
+        </tr>
+        <tr class="significant">
+            <td>KEGG:00500</td>
+            <td>Pathway</td>
+            <td>Up</td>
+            <td>Starch and sucrose metabolism</td>
+            <td>AT1G64390, AT3G13560, AT2G22190, AT4G17090</td>
+        </tr>
+    </table>
+
+    <h2>Notes for report</h2>
+        <h3>HopN1a</h3>
+            <h4>Results</h4>
+                <p>
+                    gProfiler only recognized one enriched term, with a p-value of ~0.002 from the D36E::HopN1 vs filtered D36E::ED enriched annotated gene set: KEGG00500, representing starch and glucose metabolism.
+                    Its intersecting genes, AT1G64390, AT3G13560, AT2G22190, and AT4G17090, were all found to be upregulated.
+                </p>
+            <h4>Discussion</h4>
+                <p></p>
+
+        <h3>HopB1a</h3>
+        <h4>Results</h4>
+            <p>
+                Three highly-enriched terms were recognized by gProfiler from the D36E::HopB1 vs filtered D36E::ED enriched annotated gene set: GO:0007623, GO:0048511, and GO:0009845, representing circadian rhythm, rhythmic process, and seed germination, respectively.
+                Of the three sets, the intersecting genes of seed germination were found to be entirely down-regulated, whereas the rhythm and rhythmic process terms had a combination of up- and down-regulated inserction genes.
+            </p>
+        <h4>Discussion</h4>
+            <p>
+                Three highly-enriched terms were recognized by gProfiler from the D36E::HopB1 vs filtered D36E::ED enriched annotated gene set: GO:0007623, GO:0048511, and GO:0009845, representing circadian rhythm, rhythmic process, and seed germination, respectively.
+                Of the three sets, the intersecting genes of seed germination were found to be entirely down-regulated, whereas the rhythm and rhythmic process terms had a combination of up- and down-regulated inserction genes.  
+            </p>
+
+        <h3>HopAB1j</h3>
+        <h4>Results</h4>
+            <p>
+                HopAB1j had an unexpectedly high number of significantly enriched terms recognized by gProfiler, with a total of thirteen.
+                A summary of the encountered significantly enriched (p-value < 0.01) terms can be seen in Table X.X.
+            </p>
+        <h4>Discussion</h4>
+            <p>
+                Three highly-enriched terms were recognized by gProfiler from the D36E::HopB1 vs filtered D36E::ED enriched annotated gene set: GO:0007623, GO:0048511, and GO:0009845, representing circadian rhythm, rhythmic process, and seed germination, respectively.
+                Of the three sets, the intersecting genes of seed germination were found to be entirely down-regulated, whereas the rhythm and rhythmic process terms had a combination of up- and down-regulated inserction genes.  
+            </p>
+</body>
+</html>
