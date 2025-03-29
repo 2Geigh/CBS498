@@ -1,0 +1,2 @@
+"query","significant","p_value","term_size","query_size","intersection_size","precision","recall","term_id","source","term_name","effective_domain_size","source_order","parents","evidence_codes","intersection"
+"query_1",TRUE,0.00270254582438141,172,10,4,0.4,0.0232558139534884,"KEGG:00500","KEGG","Starch and sucrose metabolism",5300,62,"KEGG:00000","KEGG,KEGG,KEGG,KEGG","AT1G64390,AT3G13560,AT2G22190,AT4G17090"
