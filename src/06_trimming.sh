@@ -58,7 +58,6 @@ process_samples() {
 
 
 main() {
-    @description Main program entry point
     validate_arguments "$@"
     SAMPLE_LIST="$1"
     REFERENCE_GENOME="$2"
