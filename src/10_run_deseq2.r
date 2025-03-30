@@ -1,8 +1,5 @@
 library(DESeq2)
 library(ggplot2)
-library(pheatmap)
-library(EnhancedVolcano)
-library(UpSetR)
 
 # Constants
 CRITICAL_VALUE <- 0.05

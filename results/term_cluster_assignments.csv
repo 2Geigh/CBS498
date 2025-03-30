@@ -1,953 +1,953 @@
 "term","cluster"
 "(+)-abscisic acid 8'-hydroxylase activity",1
 "2-Oxocarboxylic acid metabolism",2
-"3-isopropylmalate dehydratase activity",3
-"3-methylthiopropyl glucosinolate S-oxygenase activity",3
-"4-methylthiopropyl glucosinolate S-oxygenase activity",3
-"5-methylthiopropyl glucosinolate S-oxygenase activity",3
-"6-methylthiopropyl glucosinolate S-oxygenase activity",3
-"7-methylthiopropyl glucosinolate S-oxygenase activity",3
-"8-methylthiopropyl glucosinolate S-oxygenase activity",3
-"abaxial cell fate specification",4
-"ABC-type xenobiotic transporter activity",4
-"abscisic acid-activated signaling pathway",5
-"acetyl-CoA carboxylase complex",4
-"activation of immune response",6
-"activation of innate immune response",4
-"acyltransferase activity",7
-"acyltransferase activity, acyl groups converted into alkyl on transfer",3
-"adenyl nucleotide binding",8
-"adenyl ribonucleotide binding",8
-"ADP binding",9
-"Alanine, aspartate and glutamate metabolism",3
-"aldehyde-lyase activity",6
-"alpha-amino acid biosynthetic process",10
-"alpha-amino acid catabolic process",6
+"3-isopropylmalate dehydratase activity",1
+"3-methylthiopropyl glucosinolate S-oxygenase activity",1
+"4-methylthiopropyl glucosinolate S-oxygenase activity",1
+"5-methylthiopropyl glucosinolate S-oxygenase activity",1
+"6-methylthiopropyl glucosinolate S-oxygenase activity",1
+"7-methylthiopropyl glucosinolate S-oxygenase activity",1
+"8-methylthiopropyl glucosinolate S-oxygenase activity",1
+"abaxial cell fate specification",1
+"ABC-type xenobiotic transporter activity",1
+"abscisic acid-activated signaling pathway",2
+"acetyl-CoA carboxylase complex",1
+"activation of immune response",1
+"activation of innate immune response",1
+"acyltransferase activity",1
+"acyltransferase activity, acyl groups converted into alkyl on transfer",1
+"adenyl nucleotide binding",3
+"adenyl ribonucleotide binding",3
+"ADP binding",4
+"Alanine, aspartate and glutamate metabolism",1
+"aldehyde-lyase activity",1
+"alpha-amino acid biosynthetic process",2
+"alpha-amino acid catabolic process",1
 "alpha-amino acid metabolic process",2
-"alpha-Linolenic acid metabolism",11
-"amide transport",6
-"amine catabolic process",3
-"amine metabolic process",3
+"alpha-Linolenic acid metabolism",2
+"amide transport",1
+"amine catabolic process",1
+"amine metabolic process",1
 "amino acid biosynthetic process",2
-"amino acid catabolic process",11
-"amino acid kinase activity",3
+"amino acid catabolic process",2
+"amino acid kinase activity",1
 "amino acid metabolic process",2
-"Amino sugar and nucleotide sugar metabolism",4
-"aminoacyltransferase activity",7
-"anatomical structure development",12
-"anatomical structure maturation",4
-"anatomical structure morphogenesis",4
-"anchoring junction",13
-"anion binding",14
-"anthocyanin-containing compound metabolic process",6
-"apoplast",15
+"Amino sugar and nucleotide sugar metabolism",1
+"aminoacyltransferase activity",1
+"anatomical structure development",5
+"anatomical structure maturation",1
+"anatomical structure morphogenesis",1
+"anchoring junction",1
+"anion binding",3
+"anthocyanin-containing compound metabolic process",1
+"apoplast",6
 "aromatic amino acid transport",1
-"Ascorbate and aldarate metabolism",4
-"asparagine biosynthetic process",3
-"asparagine metabolic process",3
-"asparagine synthase (glutamine-hydrolyzing) activity",3
-"aspartate family amino acid biosynthetic process",10
-"aspartate family amino acid metabolic process",10
-"aspartate kinase activity",3
-"aspartic-type endopeptidase activity",13
-"aspartic-type peptidase activity",13
-"ATP binding",16
-"ATP hydrolysis activity",17
-"ATP-dependent activity",4
-"ATPase-coupled intramembrane lipid transporter activity",18
-"auxin biosynthetic process",4
-"auxin metabolic process",6
-"auxin polar transport",4
-"auxin transport",4
-"auxin-activated signaling pathway",13
+"Ascorbate and aldarate metabolism",1
+"asparagine biosynthetic process",1
+"asparagine metabolic process",1
+"asparagine synthase (glutamine-hydrolyzing) activity",1
+"aspartate family amino acid biosynthetic process",2
+"aspartate family amino acid metabolic process",2
+"aspartate kinase activity",1
+"aspartic-type endopeptidase activity",1
+"aspartic-type peptidase activity",1
+"ATP binding",7
+"ATP hydrolysis activity",7
+"ATP-dependent activity",1
+"ATPase-coupled intramembrane lipid transporter activity",7
+"auxin biosynthetic process",1
+"auxin metabolic process",1
+"auxin polar transport",1
+"auxin transport",1
+"auxin-activated signaling pathway",1
 "basic amino acid transport",1
 "benzene-containing compound metabolic process",1
-"beta-1,4-mannosyltransferase activity",3
-"beta-alanine metabolic process",4
-"beta-glucan biosynthetic process",19
-"beta-glucan metabolic process",5
+"beta-1,4-mannosyltransferase activity",1
+"beta-alanine metabolic process",1
+"beta-glucan biosynthetic process",7
+"beta-glucan metabolic process",2
 "beta-glucanase activity",1
-"binding",20
-"biogenic amine catabolic process",3
-"biogenic amine metabolic process",3
-"biological process involved in interspecies interaction between organisms",21
-"biological regulation",22
-"Biosynthesis of amino acids",3
-"Biosynthesis of nucleotide sugars",4
-"Biosynthesis of secondary metabolites",23
-"bounding membrane of organelle",24
+"binding",8
+"biogenic amine catabolic process",1
+"biogenic amine metabolic process",1
+"biological process involved in interspecies interaction between organisms",9
+"biological regulation",10
+"Biosynthesis of amino acids",1
+"Biosynthesis of nucleotide sugars",1
+"Biosynthesis of secondary metabolites",6
+"bounding membrane of organelle",11
 "box C/D methylation guide snoRNP complex",1
 "box C/D RNP complex",1
-"branched-chain amino acid biosynthetic process",10
-"branched-chain amino acid metabolic process",10
-"calcium ion binding",25
+"branched-chain amino acid biosynthetic process",2
+"branched-chain amino acid metabolic process",2
+"calcium ion binding",5
 "callose deposition in cell wall",1
-"callose localization",26
-"calmodulin binding",27
-"cAMP binding",28
-"carbohydrate binding",18
-"carbohydrate biosynthetic process",29
-"carbohydrate catabolic process",3
-"carbohydrate derivative binding",8
+"callose localization",7
+"calmodulin binding",12
+"cAMP binding",1
+"carbohydrate binding",7
+"carbohydrate biosynthetic process",13
+"carbohydrate catabolic process",1
+"carbohydrate derivative binding",3
 "carbohydrate derivative biosynthetic process",2
-"carbohydrate derivative catabolic process",3
+"carbohydrate derivative catabolic process",1
 "carbohydrate derivative metabolic process",2
 "carbohydrate derivative transmembrane transporter activity",1
-"carbohydrate derivative transport",4
-"carbohydrate metabolic process",30
+"carbohydrate derivative transport",1
+"carbohydrate metabolic process",14
 "carbohydrate transmembrane transport",1
-"carbohydrate transport",28
-"carbon fixation",6
-"carbon-carbon lyase activity",3
-"carbon-nitrogen ligase activity, with glutamine as amido-N-donor",3
-"carboxylic acid binding",6
-"carboxylic acid biosynthetic process",15
+"carbohydrate transport",1
+"carbon fixation",1
+"carbon-carbon lyase activity",1
+"carbon-nitrogen ligase activity, with glutamine as amido-N-donor",1
+"carboxylic acid binding",1
+"carboxylic acid biosynthetic process",6
 "carboxylic acid catabolic process",2
-"carboxylic acid metabolic process",31
-"carboxylic ester hydrolase activity",3
+"carboxylic acid metabolic process",14
+"carboxylic ester hydrolase activity",1
 "catabolic process",2
-"catalytic activity",32
-"catalytic activity, acting on a protein",33
-"cation binding",34
+"catalytic activity",15
+"catalytic activity, acting on a protein",12
+"cation binding",2
 "CDP-diacylglycerol biosynthetic process",1
 "CDP-diacylglycerol metabolic process",1
-"cell communication",35
-"cell death",12
-"cell development",4
-"cell division",4
-"cell growth",4
-"cell junction",13
-"cell periphery",36
-"cell surface",4
-"cell surface receptor protein serine/threonine kinase signaling pathway",6
-"cell surface receptor signaling pathway",37
-"cell wall",38
-"cell wall biogenesis",18
-"cell wall macromolecule catabolic process",6
-"cell wall macromolecule metabolic process",39
-"cell wall modification",3
-"cell wall organization",15
-"cell wall organization or biogenesis",40
-"cell wall pectin biosynthetic process",4
-"cell wall pectin metabolic process",4
-"cell wall polysaccharide biosynthetic process",6
-"cell wall polysaccharide catabolic process",6
-"cell wall polysaccharide metabolic process",39
+"cell communication",16
+"cell death",5
+"cell development",1
+"cell division",1
+"cell growth",1
+"cell junction",1
+"cell periphery",17
+"cell surface",1
+"cell surface receptor protein serine/threonine kinase signaling pathway",1
+"cell surface receptor signaling pathway",7
+"cell wall",7
+"cell wall biogenesis",7
+"cell wall macromolecule catabolic process",1
+"cell wall macromolecule metabolic process",6
+"cell wall modification",1
+"cell wall organization",6
+"cell wall organization or biogenesis",14
+"cell wall pectin biosynthetic process",1
+"cell wall pectin metabolic process",1
+"cell wall polysaccharide biosynthetic process",1
+"cell wall polysaccharide catabolic process",1
+"cell wall polysaccharide metabolic process",6
 "cell wall thickening",1
-"cell-cell junction",13
-"cell-matrix adhesion",3
-"cell-substrate adhesion",3
-"cell-substrate junction assembly",3
-"cell-substrate junction organization",3
-"cellular anatomical structure",41
-"cellular catabolic process",23
-"cellular component biogenesis",17
-"cellular component organization",6
-"cellular component organization or biogenesis",17
-"cellular homeostasis",3
-"cellular process",42
-"cellular response to abiotic stimulus",25
-"cellular response to abscisic acid stimulus",5
-"cellular response to alcohol",5
-"cellular response to auxin stimulus",13
+"cell-cell junction",1
+"cell-matrix adhesion",1
+"cell-substrate adhesion",1
+"cell-substrate junction assembly",1
+"cell-substrate junction organization",1
+"cellular anatomical structure",18
+"cellular catabolic process",6
+"cellular component biogenesis",7
+"cellular component organization",1
+"cellular component organization or biogenesis",7
+"cellular homeostasis",1
+"cellular process",19
+"cellular response to abiotic stimulus",5
+"cellular response to abscisic acid stimulus",2
+"cellular response to alcohol",2
+"cellular response to auxin stimulus",1
 "cellular response to blue light",1
-"cellular response to chemical stimulus",43
+"cellular response to chemical stimulus",20
 "cellular response to chemical stress",1
-"cellular response to cold",6
-"cellular response to decreased oxygen levels",44
-"cellular response to endogenous stimulus",45
-"cellular response to environmental stimulus",25
-"cellular response to ethylene stimulus",46
-"cellular response to fatty acid",34
-"cellular response to freezing",3
-"cellular response to hormone stimulus",45
-"cellular response to hypoxia",44
-"cellular response to jasmonic acid stimulus",34
-"cellular response to light stimulus",28
-"cellular response to lipid",23
-"cellular response to nitrogen levels",4
-"cellular response to nutrient levels",6
-"cellular response to organic cyclic compound",6
-"cellular response to osmotic stress",3
-"cellular response to oxygen levels",44
-"cellular response to oxygen-containing compound",47
-"cellular response to radiation",28
-"cellular response to red or far red light",28
-"cellular response to salicylic acid stimulus",5
-"cellular response to stimulus",48
-"cellular response to stress",49
-"cellular response to sulfate starvation",3
-"cellular response to sulfur starvation",3
-"cellular response to water deprivation",6
-"cellular response to water stimulus",6
-"cellulose biosynthetic process",50
-"cellulose metabolic process",11
-"cellulose synthase (UDP-forming) activity",5
-"cellulose synthase activity",5
-"cGMP binding",28
-"channel activity",4
-"chlorophyll binding",51
-"chlorophyll biosynthetic process",4
-"chlorophyll metabolic process",6
-"chloroplast",52
-"chloroplast envelope",53
-"chloroplast inner membrane",4
-"chloroplast localization",54
-"chloroplast membrane",4
+"cellular response to cold",1
+"cellular response to decreased oxygen levels",21
+"cellular response to endogenous stimulus",22
+"cellular response to environmental stimulus",5
+"cellular response to ethylene stimulus",5
+"cellular response to fatty acid",2
+"cellular response to freezing",1
+"cellular response to hormone stimulus",22
+"cellular response to hypoxia",21
+"cellular response to jasmonic acid stimulus",2
+"cellular response to light stimulus",1
+"cellular response to lipid",6
+"cellular response to nitrogen levels",1
+"cellular response to nutrient levels",1
+"cellular response to organic cyclic compound",1
+"cellular response to osmotic stress",1
+"cellular response to oxygen levels",21
+"cellular response to oxygen-containing compound",6
+"cellular response to radiation",1
+"cellular response to red or far red light",1
+"cellular response to salicylic acid stimulus",2
+"cellular response to stimulus",23
+"cellular response to stress",24
+"cellular response to sulfate starvation",1
+"cellular response to sulfur starvation",1
+"cellular response to water deprivation",1
+"cellular response to water stimulus",1
+"cellulose biosynthetic process",7
+"cellulose metabolic process",2
+"cellulose synthase (UDP-forming) activity",2
+"cellulose synthase activity",2
+"cGMP binding",1
+"channel activity",1
+"chlorophyll binding",12
+"chlorophyll biosynthetic process",1
+"chlorophyll metabolic process",1
+"chloroplast",25
+"chloroplast envelope",11
+"chloroplast inner membrane",1
+"chloroplast localization",1
+"chloroplast membrane",1
 "chloroplast nucleoid",1
-"chloroplast organization",7
+"chloroplast organization",1
 "chloroplast photosystem I",1
-"chloroplast relocation",54
+"chloroplast relocation",1
 "chloroplast RNA processing",1
-"chloroplast stroma",16
-"chloroplast stromal thylakoid",4
-"chloroplast thylakoid",55
-"chloroplast thylakoid lumen",13
-"chloroplast thylakoid membrane",56
-"chloroplast thylakoid membrane protein complex",50
+"chloroplast stroma",7
+"chloroplast stromal thylakoid",1
+"chloroplast thylakoid",26
+"chloroplast thylakoid lumen",1
+"chloroplast thylakoid membrane",26
+"chloroplast thylakoid membrane protein complex",7
 "circadian regulation of gene expression",1
-"circadian rhythm",57
-"Circadian rhythm - plant",58
-"circulatory system process",4
-"cold acclimation",4
-"copper ion binding",4
-"cuticle development",4
-"cyclic nucleotide binding",28
-"Cysteine and methionine metabolism",3
+"circadian rhythm",27
+"Circadian rhythm - plant",1
+"circulatory system process",1
+"cold acclimation",1
+"copper ion binding",1
+"cuticle development",1
+"cyclic nucleotide binding",1
+"Cysteine and methionine metabolism",1
 "cytidine to uridine editing",1
-"cytochrome b6f complex",4
-"cytokinesis",3
-"cytoplasm",59
-"cytoplasmic vesicle",6
-"cytoskeletal protein binding",3
-"cytoskeleton",6
-"cytoskeleton organization",4
-"cytoskeleton-dependent cytokinesis",3
-"de-etiolation",6
-"defense response",60
-"defense response by callose deposition",12
+"cytochrome b6f complex",1
+"cytokinesis",1
+"cytoplasm",28
+"cytoplasmic vesicle",1
+"cytoskeletal protein binding",1
+"cytoskeleton",1
+"cytoskeleton organization",1
+"cytoskeleton-dependent cytokinesis",1
+"de-etiolation",1
+"defense response",29
+"defense response by callose deposition",5
 "defense response by callose deposition in cell wall",1
 "defense response by cell wall thickening",1
-"defense response to bacterium",61
-"defense response to fungus",17
-"defense response to Gram-negative bacterium",4
+"defense response to bacterium",24
+"defense response to fungus",7
+"defense response to Gram-negative bacterium",1
 "defense response to insect",1
-"defense response to oomycetes",28
-"defense response to other organism",62
-"defense response to symbiont",63
+"defense response to oomycetes",1
+"defense response to other organism",16
+"defense response to symbiont",4
 "defense response to virus",1
-"detection of stimulus",4
-"detoxification",6
-"developmental growth",4
-"developmental growth involved in morphogenesis",4
-"developmental process",12
-"developmental process involved in reproduction",54
-"diaminopimelate metabolic process",3
-"disaccharide biosynthetic process",6
+"detection of stimulus",1
+"detoxification",1
+"developmental growth",1
+"developmental growth involved in morphogenesis",1
+"developmental process",5
+"developmental process involved in reproduction",1
+"diaminopimelate metabolic process",1
+"disaccharide biosynthetic process",1
 "DNA binding",1
-"DNA-binding transcription factor activity",64
-"DNA-templated transcription",25
-"double-stranded DNA binding",12
-"electron transfer activity",4
-"electron transport chain",13
-"electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity",28
-"embryo sac development",4
-"endomembrane system",65
-"endoplasmic reticulum",13
-"endoplasmic reticulum lumen",4
-"energy reserve metabolic process",4
-"enzyme-linked receptor protein signaling pathway",6
-"establishment of localization",6
-"establishment of organelle localization",54
-"establishment of plastid localization",54
-"ethylene-activated signaling pathway",46
+"DNA-binding transcription factor activity",5
+"DNA-templated transcription",5
+"double-stranded DNA binding",5
+"electron transfer activity",1
+"electron transport chain",1
+"electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity",1
+"embryo sac development",1
+"endomembrane system",7
+"endoplasmic reticulum",1
+"endoplasmic reticulum lumen",1
+"energy reserve metabolic process",1
+"enzyme-linked receptor protein signaling pathway",1
+"establishment of localization",1
+"establishment of organelle localization",1
+"establishment of plastid localization",1
+"ethylene-activated signaling pathway",5
 "exocyst",1
 "exocytic process",1
 "exocytosis",1
 "export from cell",1
-"external encapsulating structure",38
-"external encapsulating structure organization",15
-"external side of plasma membrane",4
-"extracellular region",4
-"fatty acid biosynthetic process",65
-"fatty acid derivative biosynthetic process",4
-"fatty acid derivative metabolic process",4
-"fatty acid elongase activity",6
-"Fatty acid elongation",6
-"fatty acid metabolic process",39
-"flavin adenine dinucleotide binding",3
+"external encapsulating structure",7
+"external encapsulating structure organization",6
+"external side of plasma membrane",1
+"extracellular region",1
+"fatty acid biosynthetic process",7
+"fatty acid derivative biosynthetic process",1
+"fatty acid derivative metabolic process",1
+"fatty acid elongase activity",1
+"Fatty acid elongation",1
+"fatty acid metabolic process",6
+"flavin adenine dinucleotide binding",1
 "flippase activity",1
-"fluid transport",4
-"focal adhesion assembly",3
-"fruit ripening",3
-"galacturonan metabolic process",6
-"galacturonate biosynthetic process",4
-"generation of precursor metabolites and energy",51
+"fluid transport",1
+"focal adhesion assembly",1
+"fruit ripening",1
+"galacturonan metabolic process",1
+"galacturonate biosynthetic process",1
+"generation of precursor metabolites and energy",12
 "gibberellin biosynthetic process",1
-"glucan biosynthetic process",47
-"glucan metabolic process",39
-"Glucosinolate biosynthesis",66
-"glucosinolate biosynthetic process",67
-"glucosinolate biosynthetic process from homomethionine",3
-"glucosinolate catabolic process",28
-"glucosinolate metabolic process",68
-"glucosyltransferase activity",19
-"glutamine family amino acid catabolic process",4
+"glucan biosynthetic process",6
+"glucan metabolic process",6
+"Glucosinolate biosynthesis",30
+"glucosinolate biosynthetic process",30
+"glucosinolate biosynthetic process from homomethionine",1
+"glucosinolate catabolic process",1
+"glucosinolate metabolic process",30
+"glucosyltransferase activity",7
+"glutamine family amino acid catabolic process",1
 "glutathione gamma-glutamylcysteinyltransferase activity",1
 "glycerol-3-phosphate 2-O-acyltransferase activity",1
 "glycerol-3-phosphate O-acyltransferase activity",1
-"glycerolipid metabolic process",3
-"glycerophospholipid metabolic process",3
-"Glycerophospholipid metabolism",3
-"Glycine, serine and threonine metabolism",6
-"glycogen biosynthetic process",4
-"glycogen metabolic process",4
-"glycosaminoglycan binding",13
-"glycosyl compound biosynthetic process",67
-"glycosyl compound catabolic process",7
-"glycosyl compound metabolic process",68
-"glycosyltransferase activity",15
-"Glyoxylate and dicarboxylate metabolism",4
-"Golgi apparatus",65
-"Golgi apparatus subcompartment",6
-"Golgi cisterna",4
-"Golgi membrane",6
-"Golgi stack",4
+"glycerolipid metabolic process",1
+"glycerophospholipid metabolic process",1
+"Glycerophospholipid metabolism",1
+"Glycine, serine and threonine metabolism",1
+"glycogen biosynthetic process",1
+"glycogen metabolic process",1
+"glycosaminoglycan binding",1
+"glycosyl compound biosynthetic process",30
+"glycosyl compound catabolic process",1
+"glycosyl compound metabolic process",30
+"glycosyltransferase activity",6
+"Glyoxylate and dicarboxylate metabolism",1
+"Golgi apparatus",7
+"Golgi apparatus subcompartment",1
+"Golgi cisterna",1
+"Golgi membrane",1
+"Golgi stack",1
 "green leaf volatile biosynthetic process",1
-"growth",13
+"growth",1
 "guanylate cyclase activity",1
-"heme binding",3
-"hemicellulose catabolic process",6
-"hemicellulose metabolic process",39
-"heterocyclic compound binding",69
-"hexosyltransferase activity",39
-"homeostatic process",3
+"heme binding",1
+"hemicellulose catabolic process",1
+"hemicellulose metabolic process",6
+"heterocyclic compound binding",3
+"hexosyltransferase activity",6
+"homeostatic process",1
 "homogalacturonan biosynthetic process",1
-"homogalacturonan metabolic process",4
-"homomethionine metabolic process",3
-"hormone biosynthetic process",4
-"hormone catabolic process",3
-"hormone metabolic process",6
-"hormone transport",28
-"hormone-mediated signaling pathway",45
-"hydrolase activity",13
-"hydrolase activity, acting on acid anhydrides",28
-"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",28
-"hydrolase activity, acting on glycosyl bonds",13
+"homogalacturonan metabolic process",1
+"homomethionine metabolic process",1
+"hormone biosynthetic process",1
+"hormone catabolic process",1
+"hormone metabolic process",1
+"hormone transport",1
+"hormone-mediated signaling pathway",22
+"hydrolase activity",1
+"hydrolase activity, acting on acid anhydrides",1
+"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",1
+"hydrolase activity, acting on glycosyl bonds",1
 "hydrolase activity, hydrolyzing N-glycosyl compounds",1
-"hydrolase activity, hydrolyzing O-glycosyl compounds",4
-"hyperosmotic response",6
-"hyperosmotic salinity response",6
+"hydrolase activity, hydrolyzing O-glycosyl compounds",1
+"hyperosmotic response",1
+"hyperosmotic salinity response",1
 "identical protein binding",1
-"immune effector process",3
-"immune response",70
-"immune response-activating cell surface receptor signaling pathway",4
-"immune response-activating signaling pathway",18
-"immune response-regulating cell surface receptor signaling pathway",4
-"immune response-regulating signaling pathway",18
-"immune system process",70
-"indole glucosinolate catabolic process",17
-"indole glucosinolate metabolic process",26
-"indole-containing compound catabolic process",26
-"indole-containing compound metabolic process",26
+"immune effector process",1
+"immune response",4
+"immune response-activating cell surface receptor signaling pathway",1
+"immune response-activating signaling pathway",7
+"immune response-regulating cell surface receptor signaling pathway",1
+"immune response-regulating signaling pathway",7
+"immune system process",4
+"indole glucosinolate catabolic process",7
+"indole glucosinolate metabolic process",7
+"indole-containing compound catabolic process",7
+"indole-containing compound metabolic process",7
 "induced systemic resistance",1
-"innate immune response",71
-"innate immune response activating cell surface receptor signaling pathway",4
-"innate immune response-activating signaling pathway",4
-"inositol metabolic process",6
+"innate immune response",4
+"innate immune response activating cell surface receptor signaling pathway",1
+"innate immune response-activating signaling pathway",1
+"inositol metabolic process",1
 "inositol phosphoceramide synthase activity",1
-"intracellular anatomical structure",69
-"intracellular membrane-bounded organelle",33
-"intracellular membraneless organelle",37
-"intracellular organelle",33
-"intracellular signal transduction",46
-"intracellular vesicle",6
-"intramembrane lipid transporter activity",18
-"intramolecular lyase activity",3
-"ion binding",72
-"iron ion binding",34
-"iron ion transport",4
-"isoprenoid binding",4
+"intracellular anatomical structure",3
+"intracellular membrane-bounded organelle",12
+"intracellular membraneless organelle",7
+"intracellular organelle",12
+"intracellular signal transduction",5
+"intracellular vesicle",1
+"intramembrane lipid transporter activity",7
+"intramolecular lyase activity",1
+"ion binding",27
+"iron ion binding",2
+"iron ion transport",1
+"isoprenoid binding",1
 "isoprenoid catabolic process",1
-"jasmonic acid biosynthetic process",3
-"jasmonic acid mediated signaling pathway",34
-"jasmonic acid metabolic process",10
+"jasmonic acid biosynthetic process",1
+"jasmonic acid mediated signaling pathway",2
+"jasmonic acid metabolic process",2
 "ketone metabolic process",1
-"kinase activity",69
-"L-amino acid biosynthetic process",10
-"L-amino acid catabolic process",6
-"L-amino acid metabolic process",10
-"L-asparagine biosynthetic process",3
-"L-asparagine metabolic process",3
-"L-leucine biosynthetic process",10
-"L-leucine metabolic process",10
-"lactone biosynthetic process",4
+"kinase activity",3
+"L-amino acid biosynthetic process",2
+"L-amino acid catabolic process",1
+"L-amino acid metabolic process",2
+"L-asparagine biosynthetic process",1
+"L-asparagine metabolic process",1
+"L-leucine biosynthetic process",2
+"L-leucine metabolic process",2
+"lactone biosynthetic process",1
 "larval development",1
-"leaf development",6
-"leaf senescence",6
-"light-harvesting complex",6
+"leaf development",1
+"leaf senescence",1
+"light-harvesting complex",1
 "linoleate 13S-lipoxygenase activity",1
-"lipid biosynthetic process",6
-"lipid catabolic process",11
-"lipid localization",4
-"lipid metabolic process",39
-"lipid modification",3
-"lipid translocation",18
-"lipid transport",4
-"lipid transporter activity",28
-"localization",6
-"long-chain fatty acid biosynthetic process",3
-"long-chain fatty acid metabolic process",11
-"LRR domain binding",4
-"Lysine biosynthesis",3
-"lysine biosynthetic process",3
-"lysine biosynthetic process via diaminopimelate",3
-"lysine metabolic process",3
-"macromolecule modification",27
-"magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity",4
-"male meiotic nuclear division",6
-"MAP kinase activity",3
-"MAPK cascade",3
-"MAPK signaling pathway - plant",3
-"meiosis II",3
-"meiosis II cell cycle process",3
-"membrane",29
-"membrane-bounded organelle",33
-"membraneless organelle",37
-"Metabolic pathways",31
-"metabolic process",73
-"metal ion binding",34
-"metal ion transport",6
-"methionine biosynthetic process",3
-"methylthioalkylmalate synthase activity",3
-"microtubule",6
-"microtubule binding",6
-"microtubule cytoskeleton",6
-"microtubule cytoskeleton organization",4
-"microtubule motor activity",3
-"microtubule-based movement",6
-"microtubule-based process",6
-"mitochondrial RNA metabolic process",28
+"lipid biosynthetic process",1
+"lipid catabolic process",2
+"lipid localization",1
+"lipid metabolic process",6
+"lipid modification",1
+"lipid translocation",7
+"lipid transport",1
+"lipid transporter activity",1
+"localization",1
+"long-chain fatty acid biosynthetic process",1
+"long-chain fatty acid metabolic process",2
+"LRR domain binding",1
+"Lysine biosynthesis",1
+"lysine biosynthetic process",1
+"lysine biosynthetic process via diaminopimelate",1
+"lysine metabolic process",1
+"macromolecule modification",12
+"magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity",1
+"male meiotic nuclear division",1
+"MAP kinase activity",1
+"MAPK cascade",1
+"MAPK signaling pathway - plant",1
+"meiosis II",1
+"meiosis II cell cycle process",1
+"membrane",13
+"membrane-bounded organelle",12
+"membraneless organelle",7
+"Metabolic pathways",14
+"metabolic process",31
+"metal ion binding",2
+"metal ion transport",1
+"methionine biosynthetic process",1
+"methylthioalkylmalate synthase activity",1
+"microtubule",1
+"microtubule binding",1
+"microtubule cytoskeleton",1
+"microtubule cytoskeleton organization",1
+"microtubule motor activity",1
+"microtubule-based movement",1
+"microtubule-based process",1
+"mitochondrial RNA metabolic process",1
 "mitochondrial RNA modification",1
-"mitotic cell cycle",4
-"mitotic cell cycle process",4
-"mitotic cytokinesis",11
-"modified amino acid binding",3
-"molecular function inhibitor activity",3
-"molecular transducer activity",18
-"monoatomic cation transport",3
-"monoatomic ion transport",3
-"Monobactam biosynthesis",3
-"monocarboxylic acid binding",6
-"monocarboxylic acid biosynthetic process",65
-"monocarboxylic acid catabolic process",3
-"monocarboxylic acid metabolic process",39
-"monooxygenase activity",34
-"monosaccharide biosynthetic process",4
-"monosaccharide metabolic process",4
+"mitotic cell cycle",1
+"mitotic cell cycle process",1
+"mitotic cytokinesis",2
+"modified amino acid binding",1
+"molecular function inhibitor activity",1
+"molecular transducer activity",7
+"monoatomic cation transport",1
+"monoatomic ion transport",1
+"Monobactam biosynthesis",1
+"monocarboxylic acid binding",1
+"monocarboxylic acid biosynthetic process",7
+"monocarboxylic acid catabolic process",1
+"monocarboxylic acid metabolic process",6
+"monooxygenase activity",2
+"monosaccharide biosynthetic process",1
+"monosaccharide metabolic process",1
 "monosaccharide transmembrane transport",1
 "monosaccharide transmembrane transporter activity",1
-"Motor proteins",4
+"Motor proteins",1
 "mRNA modification",1
-"mucilage biosynthetic process",3
-"mucilage metabolic process",3
-"multicellular organism development",26
-"multicellular organismal process",26
-"NAD(P)H dehydrogenase complex (plastoquinone)",4
+"mucilage biosynthetic process",1
+"mucilage metabolic process",1
+"multicellular organism development",7
+"multicellular organismal process",7
+"NAD(P)H dehydrogenase complex (plastoquinone)",1
 "NAD(P)H dehydrogenase complex assembly",1
 "NAD+ nucleosidase activity",1
-"NAD+ nucleotidase, cyclic ADP-ribose generating",28
+"NAD+ nucleotidase, cyclic ADP-ribose generating",1
 "NADH dehydrogenase complex (plastoquinone) assembly",1
-"NADP binding",3
-"NADP+ nucleosidase activity",28
+"NADP binding",1
+"NADP+ nucleosidase activity",1
 "NADPH dehydrogenase activity",1
 "negative regulation of biological process",1
-"negative regulation of circadian rhythm",54
-"negative regulation of defense response",28
+"negative regulation of circadian rhythm",1
+"negative regulation of defense response",1
 "negative regulation of defense response to bacterium",1
-"negative regulation of growth",4
-"negative regulation of macromolecule metabolic process",54
-"negative regulation of mitotic cell cycle",4
-"negative regulation of nucleobase-containing compound metabolic process",54
-"negative regulation of photosynthesis",4
-"negative regulation of photosynthesis, light reaction",4
-"negative regulation of programmed cell death",4
+"negative regulation of growth",1
+"negative regulation of macromolecule metabolic process",1
+"negative regulation of mitotic cell cycle",1
+"negative regulation of nucleobase-containing compound metabolic process",1
+"negative regulation of photosynthesis",1
+"negative regulation of photosynthesis, light reaction",1
+"negative regulation of programmed cell death",1
 "negative regulation of response to stimulus",1
-"negative regulation of transcription by RNA polymerase II",54
+"negative regulation of transcription by RNA polymerase II",1
 "nematode larval development",1
-"nitric oxide metabolic process",3
-"nitrite reductase complex [NAD(P)H]",4
-"non-proteinogenic amino acid biosynthetic process",4
-"non-proteinogenic amino acid metabolic process",4
+"nitric oxide metabolic process",1
+"nitrite reductase complex [NAD(P)H]",1
+"non-proteinogenic amino acid biosynthetic process",1
+"non-proteinogenic amino acid metabolic process",1
 "nucleic acid biosynthetic process",1
-"nucleic acid metabolic process",7
+"nucleic acid metabolic process",1
 "nucleobase transmembrane transporter activity",1
 "nucleobase transport",1
 "nucleobase-containing compound biosynthetic process",1
-"nucleobase-containing compound metabolic process",7
+"nucleobase-containing compound metabolic process",1
 "nucleoid",1
-"nucleoside phosphate binding",69
+"nucleoside phosphate binding",3
 "nucleoside transmembrane transport",1
 "nucleoside transmembrane transporter activity",1
 "nucleoside transport",1
-"nucleotidase activity",4
-"nucleotide binding",69
+"nucleotidase activity",1
+"nucleotide binding",3
 "O-methyltransferase activity",1
 "olefinic compound metabolic process",1
-"oligopeptide transmembrane transport",6
-"oligopeptide transport",6
-"oligosaccharide biosynthetic process",6
-"oligosaccharide metabolic process",4
-"omega peptidase activity",3
-"organelle",33
-"organelle envelope",53
-"organelle membrane",16
-"organelle outer membrane",74
-"organic acid binding",6
-"organic acid biosynthetic process",15
+"oligopeptide transmembrane transport",1
+"oligopeptide transport",1
+"oligosaccharide biosynthetic process",1
+"oligosaccharide metabolic process",1
+"omega peptidase activity",1
+"organelle",12
+"organelle envelope",11
+"organelle membrane",7
+"organelle outer membrane",28
+"organic acid binding",1
+"organic acid biosynthetic process",6
 "organic acid catabolic process",2
-"organic acid metabolic process",75
-"organic cyclic compound binding",7
-"organic hydroxy compound catabolic process",6
-"organic hydroxy compound metabolic process",3
-"organic hydroxy compound transport",3
+"organic acid metabolic process",14
+"organic cyclic compound binding",1
+"organic hydroxy compound catabolic process",1
+"organic hydroxy compound metabolic process",1
+"organic hydroxy compound transport",1
 "organophosphate ester transport",1
-"outer membrane",74
-"oxidoreductase activity",47
-"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",10
-"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",3
-"oxidoreductase activity, acting on the CH-NH group of donors",3
-"oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor",3
-"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor",3
-"oxoacid metabolic process",75
-"oxylipin biosynthetic process",6
-"oxylipin metabolic process",6
-"P-type calcium transporter activity",4
-"passive transmembrane transporter activity",4
-"pattern recognition receptor signaling pathway",4
-"pectin biosynthetic process",50
-"pectin metabolic process",6
-"peptide receptor activity",4
-"peptide transport",6
-"peptidoglycan binding",4
+"outer membrane",28
+"oxidoreductase activity",6
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",2
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",1
+"oxidoreductase activity, acting on the CH-NH group of donors",1
+"oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor",1
+"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor",1
+"oxoacid metabolic process",14
+"oxylipin biosynthetic process",1
+"oxylipin metabolic process",1
+"P-type calcium transporter activity",1
+"passive transmembrane transporter activity",1
+"pattern recognition receptor signaling pathway",1
+"pectin biosynthetic process",7
+"pectin metabolic process",1
+"peptide receptor activity",1
+"peptide transport",1
+"peptidoglycan binding",1
 "peptidyl-arginine methylation",1
 "peptidyl-arginine modification",1
 "phenol-containing compound metabolic process",1
-"phenotypic switching",3
-"phloem transport",4
-"phosphate-containing compound metabolic process",72
+"phenotypic switching",1
+"phloem transport",1
+"phosphate-containing compound metabolic process",27
 "phosphatidylinositol binding",1
 "phosphatidylinositol bisphosphate binding",1
 "phosphatidylinositol phosphate binding",1
-"phosphatidylinositol-4,5-bisphosphate binding",28
-"phospholipase activity",3
-"phospholipid transport",17
-"phosphorelay signal transduction system",46
-"phosphoric ester hydrolase activity",4
-"phosphorus metabolic process",72
-"phosphorylation",72
-"phosphotransferase activity, alcohol group as acceptor",14
-"phosphotransferase activity, carboxyl group as acceptor",3
-"photoinhibition",4
-"photosynthesis",76
-"Photosynthesis",16
-"Photosynthesis - antenna proteins",51
-"photosynthesis, dark reaction",13
-"photosynthesis, light harvesting",51
-"photosynthesis, light harvesting in photosystem I",50
-"photosynthesis, light harvesting in photosystem II",6
-"photosynthesis, light reaction",77
-"photosynthetic electron transport chain",78
-"photosynthetic electron transport in photosystem I",13
-"photosynthetic membrane",56
-"photosystem",52
-"photosystem I",77
-"photosystem I reaction center",17
-"photosystem II",79
-"photosystem II assembly",28
-"photosystem II oxygen evolving complex",4
-"photosystem II reaction center",13
-"photosystem II repair",4
-"phragmoplast",4
-"pigment metabolic process",6
-"Plant hormone signal transduction",6
-"plant organ development",4
-"plant organ senescence",6
-"Plant-pathogen interaction",80
-"plant-type cell wall",13
-"plant-type cell wall biogenesis",4
-"plant-type cell wall organization or biogenesis",6
-"plant-type hypersensitive response",12
-"plant-type primary cell wall biogenesis",5
-"plant-type vacuole",6
-"plasma membrane",81
-"plasmodesma",13
-"plastid",79
-"plastid envelope",56
-"plastid inner membrane",4
-"plastid localization",54
-"plastid membrane",52
+"phosphatidylinositol-4,5-bisphosphate binding",1
+"phospholipase activity",1
+"phospholipid transport",7
+"phosphorelay signal transduction system",5
+"phosphoric ester hydrolase activity",1
+"phosphorus metabolic process",27
+"phosphorylation",27
+"phosphotransferase activity, alcohol group as acceptor",3
+"phosphotransferase activity, carboxyl group as acceptor",1
+"photoinhibition",1
+"photosynthesis",32
+"Photosynthesis",7
+"Photosynthesis - antenna proteins",12
+"photosynthesis, dark reaction",1
+"photosynthesis, light harvesting",12
+"photosynthesis, light harvesting in photosystem I",7
+"photosynthesis, light harvesting in photosystem II",1
+"photosynthesis, light reaction",31
+"photosynthetic electron transport chain",7
+"photosynthetic electron transport in photosystem I",1
+"photosynthetic membrane",26
+"photosystem",25
+"photosystem I",31
+"photosystem I reaction center",7
+"photosystem II",28
+"photosystem II assembly",1
+"photosystem II oxygen evolving complex",1
+"photosystem II reaction center",1
+"photosystem II repair",1
+"phragmoplast",1
+"pigment metabolic process",1
+"Plant hormone signal transduction",1
+"plant organ development",1
+"plant organ senescence",1
+"Plant-pathogen interaction",27
+"plant-type cell wall",1
+"plant-type cell wall biogenesis",1
+"plant-type cell wall organization or biogenesis",1
+"plant-type hypersensitive response",5
+"plant-type primary cell wall biogenesis",2
+"plant-type vacuole",1
+"plasma membrane",17
+"plasmodesma",1
+"plastid",28
+"plastid envelope",26
+"plastid inner membrane",1
+"plastid localization",1
+"plastid membrane",25
 "plastid nucleoid",1
-"plastid organization",7
+"plastid organization",1
 "plastid rRNA transcription",1
-"plastid stroma",16
-"plastid thylakoid",55
-"plastid thylakoid lumen",13
-"plastid thylakoid membrane",56
+"plastid stroma",7
+"plastid thylakoid",26
+"plastid thylakoid lumen",1
+"plastid thylakoid membrane",26
 "plastid transcription",1
-"plastoglobule",12
-"poly-pyrimidine tract binding",4
-"poly(ADP-ribose) glycohydrolase activity",4
-"poly(U) RNA binding",4
-"polyamine catabolic process",3
-"polyamine oxidase activity",3
-"polygalacturonate 4-alpha-galacturonosyltransferase activity",13
-"polymeric cytoskeletal fiber",6
-"polysaccharide binding",6
-"polysaccharide biosynthetic process",30
-"polysaccharide catabolic process",3
-"polysaccharide localization",26
-"polysaccharide metabolic process",30
-"Porphyrin metabolism",6
-"porphyrin-containing compound biosynthetic process",4
-"porphyrin-containing compound catabolic process",3
-"porphyrin-containing compound metabolic process",6
-"positive regulation of cellular response to oxidative stress",4
-"positive regulation of defense response",17
-"positive regulation of immune response",4
-"positive regulation of immune system process",4
-"positive regulation of innate immune response",4
+"plastoglobule",5
+"poly-pyrimidine tract binding",1
+"poly(ADP-ribose) glycohydrolase activity",1
+"poly(U) RNA binding",1
+"polyamine catabolic process",1
+"polyamine oxidase activity",1
+"polygalacturonate 4-alpha-galacturonosyltransferase activity",1
+"polymeric cytoskeletal fiber",1
+"polysaccharide binding",1
+"polysaccharide biosynthetic process",14
+"polysaccharide catabolic process",1
+"polysaccharide localization",7
+"polysaccharide metabolic process",14
+"Porphyrin metabolism",1
+"porphyrin-containing compound biosynthetic process",1
+"porphyrin-containing compound catabolic process",1
+"porphyrin-containing compound metabolic process",1
+"positive regulation of cellular response to oxidative stress",1
+"positive regulation of defense response",7
+"positive regulation of immune response",1
+"positive regulation of immune system process",1
+"positive regulation of innate immune response",1
 "positive regulation of iron ion transport",1
-"positive regulation of leaf senescence",4
-"positive regulation of reactive oxygen species biosynthetic process",6
-"positive regulation of reactive oxygen species metabolic process",4
-"positive regulation of response to biotic stimulus",28
-"positive regulation of response to external stimulus",28
-"positive regulation of response to stimulus",17
-"positive regulation of translation",4
+"positive regulation of leaf senescence",1
+"positive regulation of reactive oxygen species biosynthetic process",1
+"positive regulation of reactive oxygen species metabolic process",1
+"positive regulation of response to biotic stimulus",1
+"positive regulation of response to external stimulus",1
+"positive regulation of response to stimulus",7
+"positive regulation of translation",1
 "post-embryonic development",1
-"post-translational protein modification",7
-"prephenate(2-) biosynthetic process",3
-"prephenate(2-) metabolic process",3
+"post-translational protein modification",1
+"prephenate(2-) biosynthetic process",1
+"prephenate(2-) metabolic process",1
 "preribosome",1
-"primary metabolic process",17
-"primary methylamine oxidase activity",3
-"programmed cell death",26
-"protein autophosphorylation",11
+"primary metabolic process",7
+"primary methylamine oxidase activity",1
+"programmed cell death",7
+"protein autophosphorylation",2
 "protein autoubiquitination",1
-"protein binding",20
-"protein dephosphorylation",4
-"protein domain specific binding",51
-"protein folding",4
-"protein kinase activity",14
-"protein localization involved in auxin polar transport",13
-"protein modification by small protein conjugation",7
-"protein modification by small protein conjugation or removal",7
-"protein modification process",71
-"protein phosphorylation",73
+"protein binding",8
+"protein dephosphorylation",1
+"protein domain specific binding",12
+"protein folding",1
+"protein kinase activity",3
+"protein localization involved in auxin polar transport",1
+"protein modification by small protein conjugation",1
+"protein modification by small protein conjugation or removal",1
+"protein modification process",4
+"protein phosphorylation",31
 "protein refolding",1
-"protein repair",4
-"protein serine kinase activity",14
-"protein serine/threonine kinase activity",14
-"protein serine/threonine phosphatase activity",4
-"protein stabilization",3
-"protein tyrosine kinase activity",6
-"protein ubiquitination",7
-"proteinogenic amino acid biosynthetic process",10
-"proteinogenic amino acid catabolic process",6
-"proteinogenic amino acid metabolic process",10
-"PSII associated light-harvesting complex II",5
+"protein repair",1
+"protein serine kinase activity",3
+"protein serine/threonine kinase activity",3
+"protein serine/threonine phosphatase activity",1
+"protein stabilization",1
+"protein tyrosine kinase activity",1
+"protein ubiquitination",1
+"proteinogenic amino acid biosynthetic process",2
+"proteinogenic amino acid catabolic process",1
+"proteinogenic amino acid metabolic process",2
+"PSII associated light-harvesting complex II",2
 "purine nucleobase transmembrane transport",1
 "purine nucleobase transmembrane transporter activity",1
 "purine nucleobase transport",1
 "purine nucleoside transmembrane transport",1
 "purine nucleoside transmembrane transporter activity",1
-"purine nucleotide binding",8
-"purine ribonucleoside triphosphate binding",37
-"purine ribonucleotide binding",8
+"purine nucleotide binding",3
+"purine ribonucleoside triphosphate binding",7
+"purine ribonucleotide binding",3
 "purine-containing compound transmembrane transport",1
-"pyrophosphatase activity",28
-"pyruvate family amino acid biosynthetic process",10
-"pyruvate family amino acid metabolic process",3
-"quinone binding",5
-"radial pattern formation",4
-"reactive nitrogen species metabolic process",3
+"pyrophosphatase activity",1
+"pyruvate family amino acid biosynthetic process",2
+"pyruvate family amino acid metabolic process",1
+"quinone binding",2
+"radial pattern formation",1
+"reactive nitrogen species metabolic process",1
 "receptor serine/threonine kinase binding",1
-"red or far-red light signaling pathway",4
-"reductive pentose-phosphate cycle",13
-"regulation of abscisic acid-activated signaling pathway",3
-"regulation of biological process",22
-"regulation of biological quality",6
-"regulation of biosynthetic process",25
-"regulation of cell communication",5
-"regulation of cellular process",82
-"regulation of cellular response to alcohol",3
-"regulation of cellular response to stress",4
+"red or far-red light signaling pathway",1
+"reductive pentose-phosphate cycle",1
+"regulation of abscisic acid-activated signaling pathway",1
+"regulation of biological process",10
+"regulation of biological quality",1
+"regulation of biosynthetic process",5
+"regulation of cell communication",2
+"regulation of cellular process",10
+"regulation of cellular response to alcohol",1
+"regulation of cellular response to stress",1
 "regulation of circadian rhythm",1
-"regulation of defense response",83
+"regulation of defense response",27
 "regulation of defense response to bacterium",1
 "regulation of defense response to fungus",1
-"regulation of developmental growth",4
-"regulation of developmental process",4
-"regulation of DNA-templated transcription",25
+"regulation of developmental growth",1
+"regulation of developmental process",1
+"regulation of DNA-templated transcription",5
 "regulation of gene expression",1
-"regulation of generation of precursor metabolites and energy",4
+"regulation of generation of precursor metabolites and energy",1
 "regulation of glucan biosynthetic process",1
-"regulation of glucosinolate biosynthetic process",3
-"regulation of growth",4
-"regulation of hormone levels",17
-"regulation of hormone metabolic process",4
-"regulation of immune response",17
-"regulation of immune system process",17
+"regulation of glucosinolate biosynthetic process",1
+"regulation of growth",1
+"regulation of hormone levels",7
+"regulation of hormone metabolic process",1
+"regulation of immune response",7
+"regulation of immune system process",7
 "regulation of innate immune response",1
-"regulation of jasmonic acid mediated signaling pathway",84
+"regulation of jasmonic acid mediated signaling pathway",5
 "regulation of ketone metabolic process",1
-"regulation of macromolecule biosynthetic process",5
-"regulation of macromolecule metabolic process",34
-"regulation of membrane lipid distribution",4
-"regulation of metabolic process",25
-"regulation of metal ion transport",4
-"regulation of monoatomic ion transport",3
-"regulation of monopolar cell growth",4
+"regulation of macromolecule biosynthetic process",2
+"regulation of macromolecule metabolic process",2
+"regulation of membrane lipid distribution",1
+"regulation of metabolic process",5
+"regulation of metal ion transport",1
+"regulation of monoatomic ion transport",1
+"regulation of monopolar cell growth",1
 "regulation of multicellular organismal development",1
 "regulation of nematode larval development",1
 "regulation of nitric oxide metabolic process",1
-"regulation of nucleobase-containing compound metabolic process",25
-"regulation of photosynthesis",4
-"regulation of photosynthesis, light reaction",4
+"regulation of nucleobase-containing compound metabolic process",5
+"regulation of photosynthesis",1
+"regulation of photosynthesis, light reaction",1
 "regulation of polysaccharide biosynthetic process",1
 "regulation of post-embryonic development",1
-"regulation of primary metabolic process",25
-"regulation of reactive oxygen species metabolic process",4
-"regulation of response to alcohol",3
-"regulation of response to biotic stimulus",64
-"regulation of response to external stimulus",64
-"regulation of response to stimulus",83
-"regulation of response to stress",85
-"regulation of RNA binding transcription factor activity",3
-"regulation of RNA biosynthetic process",25
-"regulation of RNA metabolic process",25
-"regulation of salicylic acid biosynthetic process",7
-"regulation of salicylic acid mediated signaling pathway",3
-"regulation of salicylic acid metabolic process",26
-"regulation of signal transduction",5
-"regulation of signaling",5
+"regulation of primary metabolic process",5
+"regulation of reactive oxygen species metabolic process",1
+"regulation of response to alcohol",1
+"regulation of response to biotic stimulus",5
+"regulation of response to external stimulus",5
+"regulation of response to stimulus",27
+"regulation of response to stress",27
+"regulation of RNA binding transcription factor activity",1
+"regulation of RNA biosynthetic process",5
+"regulation of RNA metabolic process",5
+"regulation of salicylic acid biosynthetic process",1
+"regulation of salicylic acid mediated signaling pathway",1
+"regulation of salicylic acid metabolic process",7
+"regulation of signal transduction",2
+"regulation of signaling",2
 "regulation of small molecule metabolic process",1
-"regulation of stomatal movement",6
-"regulation of transport",3
-"reproductive process",54
-"reproductive structure development",54
-"reproductive system development",54
-"respiratory burst",3
+"regulation of stomatal movement",1
+"regulation of transport",1
+"reproductive process",1
+"reproductive structure development",1
+"reproductive system development",1
+"respiratory burst",1
 "respiratory burst involved in defense response",1
-"response to abiotic stimulus",86
-"response to abscisic acid",87
-"response to absence of light",6
-"response to acid chemical",45
-"response to alcohol",87
+"response to abiotic stimulus",33
+"response to abscisic acid",22
+"response to absence of light",1
+"response to acid chemical",22
+"response to alcohol",22
 "response to amino acid",1
-"response to auxin",18
-"response to bacterium",35
-"response to biotic stimulus",21
+"response to auxin",7
+"response to bacterium",16
+"response to biotic stimulus",9
 "response to blue light",1
-"response to brassinosteroid",4
-"response to cadmium ion",3
-"response to calcium ion",4
-"response to carbohydrate",19
-"response to chemical",88
-"response to chitin",17
-"response to cold",89
-"response to copper ion",4
-"response to decreased oxygen levels",90
+"response to brassinosteroid",1
+"response to cadmium ion",1
+"response to calcium ion",1
+"response to carbohydrate",7
+"response to chemical",34
+"response to chitin",7
+"response to cold",22
+"response to copper ion",1
+"response to decreased oxygen levels",21
 "response to desiccation",1
-"response to endogenous stimulus",91
-"response to ethylene",64
-"response to external biotic stimulus",21
-"response to external stimulus",21
-"response to far red light",4
-"response to fatty acid",92
-"response to freezing",3
-"response to fungus",12
-"response to heat",6
-"response to high light intensity",50
-"response to hormone",91
-"response to hydrogen peroxide",17
-"response to hypoxia",90
-"response to insect",11
-"response to jasmonic acid",92
+"response to endogenous stimulus",35
+"response to ethylene",5
+"response to external biotic stimulus",9
+"response to external stimulus",9
+"response to far red light",1
+"response to fatty acid",6
+"response to freezing",1
+"response to fungus",5
+"response to heat",1
+"response to high light intensity",7
+"response to hormone",35
+"response to hydrogen peroxide",7
+"response to hypoxia",21
+"response to insect",2
+"response to jasmonic acid",6
 "response to L-glutamate",1
-"response to light intensity",15
-"response to light stimulus",93
-"response to lipid",94
-"response to low light intensity stimulus",4
-"response to mechanical stimulus",4
-"response to metal ion",6
-"response to molecule of bacterial origin",17
-"response to molecule of fungal origin",4
-"response to nematode",6
-"response to nitrogen compound",28
-"response to nutrient levels",5
-"response to oomycetes",25
-"response to organic cyclic compound",95
-"response to osmotic stress",96
-"response to other organism",21
-"response to oxidative stress",72
-"response to oxygen levels",90
-"response to oxygen-containing compound",97
-"response to ozone",28
-"response to radiation",93
-"response to reactive oxygen species",26
-"response to red light",28
-"response to red or far red light",64
-"response to salicylic acid",95
-"response to salt stress",84
-"response to starvation",6
-"response to stimulus",98
-"response to stress",99
-"response to temperature stimulus",89
-"response to toxic substance",6
+"response to light intensity",6
+"response to light stimulus",22
+"response to lipid",36
+"response to low light intensity stimulus",1
+"response to mechanical stimulus",1
+"response to metal ion",1
+"response to molecule of bacterial origin",7
+"response to molecule of fungal origin",1
+"response to nematode",1
+"response to nitrogen compound",1
+"response to nutrient levels",2
+"response to oomycetes",5
+"response to organic cyclic compound",27
+"response to osmotic stress",6
+"response to other organism",9
+"response to oxidative stress",27
+"response to oxygen levels",21
+"response to oxygen-containing compound",37
+"response to ozone",1
+"response to radiation",22
+"response to reactive oxygen species",7
+"response to red light",1
+"response to red or far red light",5
+"response to salicylic acid",27
+"response to salt stress",5
+"response to starvation",1
+"response to stimulus",38
+"response to stress",39
+"response to temperature stimulus",22
+"response to toxic substance",1
 "response to UV",1
 "response to UV-B",1
 "response to virus",1
-"response to vitamin",3
-"response to water",45
-"response to water deprivation",45
-"response to wounding",100
-"reversible differentiation",3
-"rhythmic process",57
+"response to vitamin",1
+"response to water",22
+"response to water deprivation",22
+"response to wounding",40
+"reversible differentiation",1
+"rhythmic process",27
 "ribonucleoprotein complex biogenesis",1
-"ribonucleoside triphosphate phosphatase activity",28
-"ribonucleotide binding",8
-"ribosome biogenesis",7
+"ribonucleoside triphosphate phosphatase activity",1
+"ribonucleotide binding",3
+"ribosome biogenesis",1
 "Ribosome biogenesis in eukaryotes",1
 "RNA biosynthetic process",1
-"RNA metabolic process",7
-"RNA modification",20
+"RNA metabolic process",1
+"RNA modification",8
 "RNA polymerase II complex binding",1
-"root development",4
-"root system development",4
-"rRNA binding",4
+"root development",1
+"root system development",1
+"rRNA binding",1
 "rRNA metabolic process",1
 "rRNA processing",1
-"S-glycoside biosynthetic process",67
-"S-glycoside catabolic process",28
-"S-glycoside metabolic process",68
-"salicylic acid binding",4
+"S-glycoside biosynthetic process",30
+"S-glycoside catabolic process",1
+"S-glycoside metabolic process",30
+"salicylic acid binding",1
 "salicylic acid biosynthetic process",1
-"salicylic acid mediated signaling pathway",5
-"salicylic acid metabolic process",28
-"secondary active transmembrane transporter activity",4
-"secondary metabolic process",3
+"salicylic acid mediated signaling pathway",2
+"salicylic acid metabolic process",1
+"secondary active transmembrane transporter activity",1
+"secondary metabolic process",1
 "secretion",1
 "secretion by cell",1
-"secretory vesicle",15
-"seed germination",54
-"seedling development",54
-"sequence-specific DNA binding",64
-"sequence-specific double-stranded DNA binding",64
-"serine family amino acid biosynthetic process",4
-"serine family amino acid metabolic process",4
-"shade avoidance",28
-"side of membrane",38
-"signal transduction",35
-"signaling",35
-"signaling receptor activity",18
-"small molecule binding",95
-"small molecule biosynthetic process",15
+"secretory vesicle",6
+"seed germination",1
+"seedling development",1
+"sequence-specific DNA binding",5
+"sequence-specific double-stranded DNA binding",5
+"serine family amino acid biosynthetic process",1
+"serine family amino acid metabolic process",1
+"shade avoidance",1
+"side of membrane",7
+"signal transduction",16
+"signaling",16
+"signaling receptor activity",7
+"small molecule binding",27
+"small molecule biosynthetic process",6
 "small molecule catabolic process",2
-"small molecule metabolic process",75
+"small molecule metabolic process",14
 "small-subunit processome",1
-"sno(s)RNA-containing ribonucleoprotein complex",4
-"snoRNA binding",7
-"spermidine catabolic process",3
-"spermine catabolic process",3
+"sno(s)RNA-containing ribonucleoprotein complex",1
+"snoRNA binding",1
+"spermidine catabolic process",1
+"spermine catabolic process",1
 "spermine metabolic process",1
-"spermine oxidase activity",3
-"stamen filament development",6
-"Starch and sucrose metabolism",54
-"starch biosynthetic process",3
-"stomatal movement",6
-"sulfate assimilation",3
+"spermine oxidase activity",1
+"stamen filament development",1
+"Starch and sucrose metabolism",1
+"starch biosynthetic process",1
+"stomatal movement",1
+"sulfate assimilation",1
 "sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)",1
-"sulfur compound biosynthetic process",66
+"sulfur compound biosynthetic process",30
 "sulfur compound catabolic process",1
-"sulfur compound metabolic process",67
-"supramolecular complex",4
-"supramolecular fiber",6
-"supramolecular polymer",6
-"symbiont-induced defense-related programmed cell death",12
-"symplast",13
-"system development",28
-"system process",4
-"systemic acquired resistance",25
-"systemic acquired resistance, salicylic acid mediated signaling pathway",4
+"sulfur compound metabolic process",30
+"supramolecular complex",1
+"supramolecular fiber",1
+"supramolecular polymer",1
+"symbiont-induced defense-related programmed cell death",5
+"symplast",1
+"system development",1
+"system process",1
+"systemic acquired resistance",5
+"systemic acquired resistance, salicylic acid mediated signaling pathway",1
 "terpenoid catabolic process",1
-"tetrapyrrole binding",19
-"tetrapyrrole biosynthetic process",4
-"tetrapyrrole catabolic process",3
-"tetrapyrrole metabolic process",6
-"threonine biosynthetic process",3
-"threonine metabolic process",3
-"thylakoid",55
-"thylakoid light-harvesting complex",6
-"thylakoid lumen",38
-"thylakoid membrane",56
-"toxin catabolic process",3
-"toxin metabolic process",3
-"trans-Golgi network",6
-"transcription antitermination",3
-"transcription cis-regulatory region binding",64
-"transcription regulator activity",25
-"transcription regulatory region nucleic acid binding",64
-"transferase activity",96
-"transferase activity, transferring phosphorus-containing groups",51
+"tetrapyrrole binding",7
+"tetrapyrrole biosynthetic process",1
+"tetrapyrrole catabolic process",1
+"tetrapyrrole metabolic process",1
+"threonine biosynthetic process",1
+"threonine metabolic process",1
+"thylakoid",26
+"thylakoid light-harvesting complex",1
+"thylakoid lumen",7
+"thylakoid membrane",26
+"toxin catabolic process",1
+"toxin metabolic process",1
+"trans-Golgi network",1
+"transcription antitermination",1
+"transcription cis-regulatory region binding",5
+"transcription regulator activity",5
+"transcription regulatory region nucleic acid binding",5
+"transferase activity",6
+"transferase activity, transferring phosphorus-containing groups",12
 "transition metal ion binding",1
-"transition metal ion transport",4
+"transition metal ion transport",1
 "transmembrane phosphate ion transport from cytosol to vacuole",1
-"transmembrane receptor protein kinase activity",78
-"transmembrane receptor protein serine/threonine kinase activity",6
-"transmembrane receptor protein tyrosine kinase activity",18
-"transmembrane signaling receptor activity",18
-"transmembrane transport",50
-"transmembrane transporter activity",5
-"transport",6
-"transporter activity",5
-"trehalose biosynthetic process",6
-"trehalose metabolic process",6
-"trehalose-phosphatase activity",3
-"tubulin binding",4
-"ubiquitin protein ligase activity",7
-"ubiquitin protein ligase binding",4
-"ubiquitin-like protein ligase activity",7
-"ubiquitin-like protein ligase binding",4
-"ubiquitin-like protein transferase activity",7
-"ubiquitin-protein transferase activity",7
-"UDP-glucosyltransferase activity",11
-"UDP-glucuronate biosynthetic process",4
-"UDP-glucuronate metabolic process",4
-"UDP-glycosyltransferase activity",19
-"unsaturated fatty acid biosynthetic process",4
-"unsaturated fatty acid metabolic process",13
-"uracil metabolic process",4
+"transmembrane receptor protein kinase activity",7
+"transmembrane receptor protein serine/threonine kinase activity",1
+"transmembrane receptor protein tyrosine kinase activity",7
+"transmembrane signaling receptor activity",7
+"transmembrane transport",7
+"transmembrane transporter activity",2
+"transport",1
+"transporter activity",2
+"trehalose biosynthetic process",1
+"trehalose metabolic process",1
+"trehalose-phosphatase activity",1
+"tubulin binding",1
+"ubiquitin protein ligase activity",1
+"ubiquitin protein ligase binding",1
+"ubiquitin-like protein ligase activity",1
+"ubiquitin-like protein ligase binding",1
+"ubiquitin-like protein transferase activity",1
+"ubiquitin-protein transferase activity",1
+"UDP-glucosyltransferase activity",2
+"UDP-glucuronate biosynthetic process",1
+"UDP-glucuronate metabolic process",1
+"UDP-glycosyltransferase activity",7
+"unsaturated fatty acid biosynthetic process",1
+"unsaturated fatty acid metabolic process",1
+"uracil metabolic process",1
 "vacuolar transmembrane transport",1
-"vacuole",18
-"Valine, leucine and isoleucine biosynthesis",3
-"vascular process in circulatory system",4
-"vascular transport",4
-"very long-chain fatty acid biosynthetic process",4
-"vesicle",6
-"water channel activity",4
-"water transmembrane transporter activity",4
-"water transport",4
-"wax biosynthetic process",4
-"wax metabolic process",4
-"xenobiotic detoxification by transmembrane export across the plasma membrane",4
-"xenobiotic export from cell",4
-"xenobiotic transmembrane transporter activity",13
-"xenobiotic transport",18
-"xylan catabolic process",6
-"xylan metabolic process",11
-"xylem and phloem pattern formation",54
-"xyloglucan metabolic process",65
-"xyloglucan:xyloglucosyl transferase activity",13
-"xylosyltransferase activity",4
+"vacuole",7
+"Valine, leucine and isoleucine biosynthesis",1
+"vascular process in circulatory system",1
+"vascular transport",1
+"very long-chain fatty acid biosynthetic process",1
+"vesicle",1
+"water channel activity",1
+"water transmembrane transporter activity",1
+"water transport",1
+"wax biosynthetic process",1
+"wax metabolic process",1
+"xenobiotic detoxification by transmembrane export across the plasma membrane",1
+"xenobiotic export from cell",1
+"xenobiotic transmembrane transporter activity",1
+"xenobiotic transport",7
+"xylan catabolic process",1
+"xylan metabolic process",2
+"xylem and phloem pattern formation",1
+"xyloglucan metabolic process",7
+"xyloglucan:xyloglucosyl transferase activity",1
+"xylosyltransferase activity",1
